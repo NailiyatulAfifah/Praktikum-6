@@ -4,7 +4,7 @@ Buat Database
 
 Buat Tabel
 ![alt text](https://github.com/NailiyatulAfifah/Praktikum-6/blob/master/02.PNG?raw=true)
-(https://github.com/NailiyatulAfifah/Praktikum-6/blob/master/03.PNG?raw=true)
+![alt text](https://github.com/NailiyatulAfifah/Praktikum-6/blob/master/03.PNG?raw=true)
 
 Tampilan Tabel
 ![alt text](https://github.com/NailiyatulAfifah/Praktikum-6/blob/master/04.PNG?raw=true)
